@@ -1,4 +1,4 @@
-#Nouns: Player (score, questions)
+#Nouns: Player (score, questions), current player, 
 #Roles: holds player blueprints, holds score, methods for the questions
 
 #Scores: value starting at 3
